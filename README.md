@@ -14,5 +14,5 @@ Feel free to get in touch:
 
 - [Twitter](https://twitter.com/JustSteveKing)
 - [LinkedIn](https://www.linkedin.com/in/steve-mcdougall/)
-- [Email](juststevemcd@gmail.com)
+- [Email](mailto://juststevemcd@gmail.com)
 - [Website](https://www.juststeveking.uk/)
