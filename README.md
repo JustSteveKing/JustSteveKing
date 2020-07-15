@@ -14,7 +14,5 @@ Feel free to get in touch:
 
 - [Twitter](https://twitter.com/JustSteveKing)
 - [LinkedIn](https://www.linkedin.com/in/steve-mcdougall/)
-- <a href="#mailgo" data-address="matteo" data-domain="manzinello.dev">write me!</a>
+- [Email](mailto://juststevemcd@gmail.com)
 - [Website](https://www.juststeveking.uk/)
-
-<script src="https://cdn.jsdelivr.net/npm/mailgo@0.9.7/dist/mailgo.min.js"></script>
