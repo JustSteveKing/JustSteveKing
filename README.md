@@ -28,6 +28,3 @@ Feel free to reach out:
 - [Email](mailto://juststevemcd@gmail.com)
 - [Website](https://www.juststeveking.uk/)
 
-<a href="https://github.com/JustSteveKing">
-  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=JustSteveKing&show_icons=true" height="150" />
-</a>
