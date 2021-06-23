@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![JustSteveKing](https://www.juststeveking.uk/images/juststeveking-card.png)
+![JustSteveKing](https://www.juststeveking.uk/assets/images/juststeveking-card.png)
 
 </h1>
 
