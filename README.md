@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![JustSteveKing](https://www.juststeveking.uk/assets/images/juststeveking-card.png)
+![JustSteveKing](./header.png)
 
 </h1>
 
@@ -25,3 +25,7 @@ Feel free to reach out:
 - [Email](mailto://juststevemcd@gmail.com)
 - [Website](https://www.juststeveking.uk/)
 - [YouTube](https://www.youtube.com/c/JustSteveKing)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
