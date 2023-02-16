@@ -36,9 +36,9 @@
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Command Bus](https://www.juststeveking.uk/laravel-command-bus)
-- [Adapter Pattern](https://www.juststeveking.uk/adapter-pattern)
-- [Testing API responses in pestPHP](https://www.juststeveking.uk/testing-api-responses-in-pest-php)
-- [Tappable Query Scopes in Laravel](https://www.juststeveking.uk/tappable-query-scopes-in-laravel)
-- [Laravel DDD - Routing within our Domain](https://www.juststeveking.uk/routing-within-our-domain)
+- [Laravel Pennant](https://juststeveking.uk/blog/laravel-pennant/)
+- [Testing JSON:API Endpoints with PestPHP](https://juststeveking.uk/blog/testing-json-api-endpoints-with-pestphp/)
+- [Building APIs in Laravel](https://juststeveking.uk/blog/building-apis-in-laravel/)
+- [Reducing code duplication](https://juststeveking.uk/blog/reducing-code-duplication/)
+- [Learn all about Laravel&#39;s dependency injection container](https://juststeveking.uk/blog/leaning-on-the-container/)
 <!-- BLOG-POST-LIST:END -->
