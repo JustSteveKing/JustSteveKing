@@ -1,38 +1,26 @@
-<h1 align="center">
-
-![JustSteveKing](./header.png)
-
-</h1>
+<div align="center">
+<a href="https://www.linkedin.com/in/steve-mcdougall/" target="_blank">LinkedIn</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="mailto://juststevemcd@gmail.com" target="_blank">Email</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://www.juststeveking.uk/" target="_blank">Website</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://www.youtube.com/c/JustSteveKing" target="_blank">YouTube</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://twitter.com/juststeveking" target="_blank">Twitter</a>
+<br />
+</div>
 
 ---
 
+## Hey there 👋
 
-<p>
-  <a href="https://www.youtube.com/c/JustSteveKing">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBnj7HfncAygGeyymgydZxQ?style=for-the-badge">
-  </a>
-  
-  <a href="https://twitter.com/JustSteveKing">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/JustSteveKing?color=%231DA1F2&style=for-the-badge">
-  </a>
+I build developer tools and APIs. Most of what I do is around APIs and education, so buckle up and get your learning hat on.
 
-  <a href="https://github.com/sponsors/JustSteveKing">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/JustSteveKing?style=for-the-badge">
-  </a>
-</p>
+I work as a Developer Advocate [Treblle](https://www.treblle.com/) - think Google Analytics but for your API 🔥
 
+When I am not working I am usually building Open Source packages, writing tutorials for [Laravel News](https://www.laravel-news.com), or livestreaming on my [YouTube channel](https://www.youtube.com/c/JustSteveKing).
 
-## Feel free to reach out:
-
-- [LinkedIn](https://www.linkedin.com/in/steve-mcdougall/)
-- [Email](mailto://juststevemcd@gmail.com)
-- [Website](https://www.juststeveking.uk/)
-- [YouTube](https://www.youtube.com/c/JustSteveKing)
-
-
-## Profile Stats
-
-[![JustSteveKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=juststeveking)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
