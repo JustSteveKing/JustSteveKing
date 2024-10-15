@@ -17,8 +17,6 @@
 
 I build developer tools and APIs. Most of what I do is around APIs and education, so buckle up and get your learning hat on.
 
-I work as a Developer Advocate [Treblle](https://www.treblle.com/) - think Google Analytics but for your API 🔥
-
 When I am not working I am usually building Open Source packages, writing tutorials for [Laravel News](https://www.laravel-news.com), or livestreaming on my [YouTube channel](https://www.youtube.com/c/JustSteveKing).
 
 
