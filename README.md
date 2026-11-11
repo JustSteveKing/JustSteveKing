@@ -28,10 +28,10 @@ If you want to see the toolbox doing real work, [sdk-toolbox-resend](https://git
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding Resend's PHP SDK](https://www.juststeveking.com/articles/rebuilding-resends-php-sdk/)
+- [Rebuilding Resend&#39;s PHP SDK](https://www.juststeveking.com/articles/rebuilding-resends-php-sdk/)
 - [To Boldly GET: I Built a Starship Out of Status Codes](https://www.juststeveking.com/articles/to-boldly-get/)
-- [Setting Up A Laptop That Isn't Mine](https://www.juststeveking.com/articles/setting-up-a-laptop-that-isnt-mine/)
-- [You Can't Deprecate a Field With a Header](https://www.juststeveking.com/articles/you-cant-deprecate-a-field-with-a-header/)
+- [Setting Up A Laptop That Isn&#39;t Mine](https://www.juststeveking.com/articles/setting-up-a-laptop-that-isnt-mine/)
+- [You Can&#39;t Deprecate a Field With a Header](https://www.juststeveking.com/articles/you-cant-deprecate-a-field-with-a-header/)
 - [Both Ends of the Wire](https://www.juststeveking.com/articles/both-ends-of-the-wire/)
 <!-- BLOG-POST-LIST:END -->
 
