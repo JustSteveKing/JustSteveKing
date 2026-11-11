@@ -1,15 +1,26 @@
-name: Latest blog post workflow
+name: Latest blog posts
+
 on:
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  # Every morning, after the site's daily content sync has published at 05:17 UTC.
+  schedule:
+    - cron: "0 7 * * *"
+  # Run it by hand from the Actions tab, without waiting for the schedule.
+  workflow_dispatch:
+
+# The action commits the updated README back to this repository.
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update the README with the latest articles
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: actions/checkout@v7
+
+      - name: Pull in the latest articles from juststeveking.com
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
-          feed_list: "https://www.juststeveking.uk/rss.xml"
+          feed_list: "https://www.juststeveking.com/rss.xml"
+          max_post_count: 5
