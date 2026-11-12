@@ -12,7 +12,7 @@
 
 ## Hey, I'm Steve 👋
 
-Most people know me as JustSteveKing, the API Guy. I write the monthly API Guy column for [php[architect]](https://www.phparch.com/), sit on the [PHP-FIG](https://www.php-fig.org/) Core Committee, and from November I'm SerpApi's PHP developer advocate.
+Most people know me as JustSteveKing, the API Guy. I write the monthly API Guy column for [php[architect]](https://www.phparch.com/), sit on the [PHP-FIG](https://www.php-fig.org/) Core Committee, and I'm the PHP developer advocate at [SerpApi](https://serpapi.com/).
 
 Most of my own work is the boring HTTP that keeps the people integrating with your API from paging you: the inconsistent errors, the undocumented retry rules, the envelopes nobody tested. It's all PHP, it all follows a published standard where one exists, and it comes from APIs that have survived real traffic.
 
